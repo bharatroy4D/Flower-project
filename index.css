@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;0,700;1,700&family=Merriweather&display=swap');
+*{
+          margin: 0;
+          padding: 0;
+          box-sizing: border-box;
+          font-family: 'Lato', sans-serif;
+}
+/* header section start */
+header{
+          width: 100%;
+          background: rgba(229, 84, 115, 0.10); 
+
+}
+.header-container{
+          
+          max-width: 1440px;
+          display: flex;
+          align-items: center;
+          padding: 50px 240px 0px;
+          gap: 100px;
+          
+         
+}
+.header-container div{
+          width: 50%;
+}
+.header-title{
+          width: 700px;
+          color: #272727;
+          font-size: 60px;
+          font-weight: 600;
+
+}
+.section-description{
+          color: rgba(39, 39, 39, 0.60);
+          font-size: 18px;
+          font-weight: 400;
+          margin: 32px 0px;
+}
+.bnt-primary{
+          color: #FFF;
+          font-size: 20px;
+          font-weight: 700;
+          border-radius: 8px;
+          background: #E55473;
+          padding: 20px 40px;
+          border: none;
+
+}
+.bnt-primary:hover{
+          background-color: #b14159 ;
+}
+.images-content img{
+          width: 465px;
+          height: 600px;
+}
+
