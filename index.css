@@ -123,11 +123,15 @@ header{
           align-items: center;
           border-radius: 8px;
           background: rgba(39, 39, 39, 0.05);
-          /* padding: 45px 100px; */
+          
 }
 .survice-items{
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          align-items: center;
           margin: 40px 100px;
-          width: 26%;
+          /* width: 106%; */
           border: 2px solid;
 }
 .survice-items img{
@@ -167,6 +171,9 @@ header{
 }
 .instagram-flower-items{
           display: flex;
+          justify-content: center;
+          align-items: center;
+          
           
           
           
