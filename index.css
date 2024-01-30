@@ -203,6 +203,8 @@ header{
           background-image: url('./flower/Rectangle\ 9.png');
           padding: 100px 0;
           border-radius: 8px;
+          background-size: 100%;
+          background-repeat: no-repeat;
 
           
 }
