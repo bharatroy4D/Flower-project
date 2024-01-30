@@ -112,5 +112,141 @@ header{
           text-decoration-line: underline;
           margin-top: 20px;
 }
+/* service section start */
+.survice{
+          margin-top: 120px;
+    
+}
+.sub-cont{
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          border-radius: 8px;
+          background: rgba(39, 39, 39, 0.05);
+          /* padding: 45px 100px; */
+}
+.survice-items{
+          margin: 40px 100px;
+          width: 26%;
+          border: 2px solid;
+}
+.survice-items img{
+          width: 60px;
+          height: 60px;
+          
+}
+
+/* hot-deal section start */
+
+.hot-deal-section{
+          background-color: aqua;
+          margin-top: 100px;
+}
+.hot-deal{
+          display: flex;
+          align-items: center;
+          justify-content: space-around;
+
+}
+.hot-deal-text{
+          text-align: center;
+          width: 500px;
+}
+.hot-deal-title{
+          font-size: 25px;
+          text-align: center;
+}
+
+.hot-description{
+         font-size: 15px;
+}
+
+/* Instagram section start */
+.instagram{
+          margin-top: 110px;
+}
+.instagram-flower-items{
+          display: flex;
+          
+          
+          
+          
+}
+.instagram-flower-items ,.flower-list{
+          width: 1000px;
+          margin-left: 25px;
+          
+}
+.flower-list img{
+          width: 100%;
+}
+.instagram-description{
+          width: 550px;
+          font-size: 15px;
+          text-align: center;
+          margin: 25px auto;
+
+}
+
+
+
+
+/* footer section start */
+footer{
+          align-items: center;
+          background-color: #111010;
+          min-height: 300px;
+          
+
+}
+.footer-container{
+          margin: 210px 0;
+          background-color:#111010;
+          
+}
+.footer-title{
+          color:rgb(248, 108, 108);
+          margin-top: 210px;
+}
+.footer-description{
+          color: #FFFFFFE5;
+}
+.date{
+          color: #FFFFFF66;
+          text-align: center;
+}
+
+/* .news-latter section */
+.news-latter{
+          margin-top: 110px;
+}
+.news-latter-content{
+          background-image: url('./flower/Rectangle\ 9.png');
+          padding: 110px 0;
+          border-radius: 8px;
+
+          
+}
+.input-content{
+          display: flex;
+          justify-content: center;
+          
+          
+          
+          
+         
+          
+}
+.input-content input{
+          width: 600px;
+          height: 60px;
+          background-color: #FFFFFF;
+          border-radius: 8px;
+          border: none;
+          text-align: center;
+          margin-right: 10px;
+          
+}
+
 
 
